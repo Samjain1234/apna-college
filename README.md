@@ -1,3 +1,3 @@
 # apna-college
 this is my first gir repositiory
-samriddhi jain
+ Author- samriddhi jain
