@@ -1,4 +1,4 @@
 # apna-college
-this is my first gir repositiory
+this is my first git repositiory
 <br>
  Author- samriddhi jain
